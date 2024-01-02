@@ -7,4 +7,4 @@ We actually update the add-on with every dev release Emin releases on [<ins>Patr
 ## How to enable colored lighting?
 Go to Euphoria Patches Settings -> World -> Blocklight and in there enable Multi-Colored Blocklight.
 
-## If any more questions arise, just ask in the [<ins>#euphoria-patches</ins>](https://discord.com/channels/744189556768636941/1005837848982847548) thread on the [<ins>Complementary Discord</ins>](https://discord.gg/ck5htDSQPv).
+## If any more questions arise, just ask in the [<ins>#euphoria-patches</ins>](https://discord.com/channels/744189556768636941/1191856421508235284) channel on the [<ins>Complementary Discord</ins>](https://complementary.dev/discord).
